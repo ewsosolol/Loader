@@ -13,7 +13,6 @@
                                \▓▓                                                                                                    
                                
                               ]]--
-
 if game.PlaceId == 192800 then
 loadstring(game:HttpGet(('https://gist.githubusercontent.com/ewsosolol/ed7aef0e47e940578010cdc6e26aea03/raw/eb74b2272a3ab77ef50b3dc58ac0cb33d4293db6/PIZZA%2520Place%2520script%2520new')))()
 end;
@@ -51,3 +50,4 @@ loadstring(game:HttpGet("https://pastebin.com/raw/b4nrYCzm"))()
 end;
 
 game.Players.LocalPlayer:Kick(“Game Not Supported By ZenakosinovHub”)
+
