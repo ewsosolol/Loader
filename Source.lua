@@ -49,5 +49,4 @@ if  game.PlaceId == 3101667897 then
 loadstring(game:HttpGet("https://pastebin.com/raw/b4nrYCzm"))()
 end;
 
-game.Players.LocalPlayer:Kick(“Game Not Supported By ZenakosinovHub”)
 
